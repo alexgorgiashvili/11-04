@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: rgb(36, 35, 35);}
+*{
+    box-sizing:border-box;
+}
+div {
+    width: 600px;
+    background-image: url(https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/GECS_Global_Economic_Themes_2020/shutterstock_424571584.jpg/_jcr_content/renditions/original);
+    background-size: cover;
+    margin:auto;
+    margin-top: 100px;
+}
+header {
+    text-align: right;
+    padding: 15px;
+}
+a {
+    color: white;
+    background-color: #b0e0e694;
+    font-size: 70px;
+    text-transform: capitalize;   
+}

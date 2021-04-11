@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: black;}
+*{
+    box-sizing: border-box;
+}
+div {
+    width: 600px;
+    height: 500px;
+    background-image: url(https://i.pinimg.com/564x/fd/1a/54/fd1a54067712dfd64cc62163dc8b2bf5.jpg);
+    background-size: cover;
+    margin:auto;
+    margin-top: 100px;
+}
+header{
+    color: orange;
+    text-align: right;
+    padding: 10px;
+}
+header a {
+    padding: 10px;
+}
+.mid1{
+    text-align: center;
+    color: orange;
+    font-size: 35px;
+}
+.mid2{
+    text-align: center;
+    color: orange;
+    font-size: 12px;
+}
+h1 {
+    text-align: center;
+    margin-top: 150px;
+    color: black;
+    font-size: 40px;
+}
